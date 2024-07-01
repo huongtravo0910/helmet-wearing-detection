@@ -22,7 +22,7 @@ This project demonstrates how to use a YOLOv10 model for helmet detection in ima
     pip install numpy
     ```
 
-3. **Check the the pre-trained YOLOv10 model** 
+3. **Check the pre-trained YOLOv10 model** 
  - You can either reuse the current pre-trained YOLOv10 model provided in the repository or:
  - Train a new model by following the instructions in `helmet_wearing_detection.ipynb`. Once trained, replace the `best.pt` in the repository with the new `best.pt` file found at `yolov10/runs/detect/train/weights/best.pt`.
 
