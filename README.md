@@ -32,3 +32,9 @@ This project demonstrates how to use a YOLOv10 model for helmet detection in ima
 To start the Streamlit app, run the following command in your terminal:
 ```bash
 streamlit run app.py
+```
+
+## Demo
+
+https://github.com/huongtravo0910/helmet-wearing-detection/assets/66101016/37d7d179-c35f-435c-8e0d-d362876923c7
+
